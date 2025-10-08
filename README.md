@@ -22,4 +22,4 @@ Data is stored locally in the browser using **LocalStorage**, and expenses are v
 
 ---
 
-## 📂 Folder Structure
+
